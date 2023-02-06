@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import './globals.css'
-import styles from "./layout.module.css"
+import styles from "./page.module.css"
 import utilStyles from "./utils.module.css"
 export default function RootLayout({
   children,
